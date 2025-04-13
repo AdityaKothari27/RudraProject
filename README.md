@@ -77,7 +77,7 @@ The system is pre-configured with the following user personas:
    - Interests: Space exploration, AI, biotech, physics, renewable energy
    - Sources: NASA, Science Daily, Nature, Ars Technica Science
 
-##vUser Personas:
+## User Personas:
 
 The system comes pre-configured with five user personas:
 
