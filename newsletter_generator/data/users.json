@@ -1,0 +1,142 @@
+[
+  {
+    "id": "54bf5e9b-2e90-4f6f-a098-4e093d07b130",
+    "name": "Alex Parker",
+    "email": "alex.parker@example.com",
+    "interests": [
+      "AI",
+      "cybersecurity",
+      "blockchain",
+      "startups",
+      "programming"
+    ],
+    "preferred_sources": [
+      "TechCrunch",
+      "Wired",
+      "Ars Technica",
+      "MIT Technology Review"
+    ],
+    "content_weights": {},
+    "newsletter_frequency": "daily",
+    "max_articles_per_newsletter": 10,
+    "preferred_categories": [
+      "technology"
+    ],
+    "excluded_keywords": [],
+    "language": "en",
+    "location": null,
+    "persona": "tech_enthusiast"
+  },
+  {
+    "id": "6be560b3-f079-46c3-a3d3-55becf99dc5e",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "interests": [
+      "global markets",
+      "startups",
+      "fintech",
+      "cryptocurrency",
+      "economics"
+    ],
+    "preferred_sources": [
+      "Bloomberg",
+      "Financial Times",
+      "Forbes",
+      "CoinDesk"
+    ],
+    "content_weights": {},
+    "newsletter_frequency": "daily",
+    "max_articles_per_newsletter": 10,
+    "preferred_categories": [
+      "business"
+    ],
+    "excluded_keywords": [],
+    "language": "en",
+    "location": null,
+    "persona": "finance_guru"
+  },
+  {
+    "id": "47ac9fbe-7224-4670-87af-6bef04905b46",
+    "name": "Marco Rossi",
+    "email": "marco.rossi@example.com",
+    "interests": [
+      "football",
+      "F1",
+      "NBA",
+      "Olympic sports",
+      "esports"
+    ],
+    "preferred_sources": [
+      "ESPN",
+      "BBC Sport",
+      "Sky Sports",
+      "The Athletic"
+    ],
+    "content_weights": {},
+    "newsletter_frequency": "daily",
+    "max_articles_per_newsletter": 10,
+    "preferred_categories": [
+      "sports"
+    ],
+    "excluded_keywords": [],
+    "language": "en",
+    "location": null,
+    "persona": "sports_journalist"
+  },
+  {
+    "id": "6faf4bd6-d726-4661-88b5-2eadde490b81",
+    "name": "Lisa Thompson",
+    "email": "lisa.thompson@example.com",
+    "interests": [
+      "movies",
+      "celebrity news",
+      "TV shows",
+      "music",
+      "books"
+    ],
+    "preferred_sources": [
+      "Variety",
+      "Rolling Stone",
+      "Billboard",
+      "Hollywood Reporter"
+    ],
+    "content_weights": {},
+    "newsletter_frequency": "daily",
+    "max_articles_per_newsletter": 10,
+    "preferred_categories": [
+      "entertainment"
+    ],
+    "excluded_keywords": [],
+    "language": "en",
+    "location": null,
+    "persona": "entertainment_buff"
+  },
+  {
+    "id": "62fda143-96e4-4e96-90b3-ac5509c014ab",
+    "name": "David Martinez",
+    "email": "david.martinez@example.com",
+    "interests": [
+      "space exploration",
+      "AI",
+      "biotech",
+      "physics",
+      "renewable energy"
+    ],
+    "preferred_sources": [
+      "NASA",
+      "Science Daily",
+      "Nature",
+      "Ars Technica"
+    ],
+    "content_weights": {},
+    "newsletter_frequency": "daily",
+    "max_articles_per_newsletter": 10,
+    "preferred_categories": [
+      "science"
+    ],
+    "excluded_keywords": [],
+    "language": "en",
+    "location": null,
+    "persona": "science_nerd"
+  }
+]
